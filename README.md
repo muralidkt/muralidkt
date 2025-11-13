@@ -9,7 +9,7 @@
 ---
 
 - 🤖 Currently working on building scalable, secure and resilient **AI Agent systems** using frameworks like **LangGraph**, **Claude Agent**, and **AWS Bedrock CoreAgent** 
-- ☁️ Experienced across **AWS**, **Azure**, and **GCP**, with deep focus building applications leveraging **Cloud Service**, **Applied AI / ML Ops**, **Infrastructure as Code(IaC)**, **Automation**, **Security**
+- ☁️ Experienced across **AWS**, **Azure**, and **GCP**, with deep focus building applications leveraging **Cloud Service**, **Applied AI / ML Ops**, **Infrastructure as Code(IaC)**, **Automation**, **Security** etc
 - 📝 I write about cloud, AI, and automation on [Medium](https://muralidkt.medium.com)  
 - 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/muralidkt/)
 - 🏅 View my **AWS & Cloud Certifications** on [Credly](https://www.credly.com/users/muralidharan-kotharamban/badges#credly)  
