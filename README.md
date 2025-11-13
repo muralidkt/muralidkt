@@ -8,10 +8,8 @@
 
 ---
 
-- 🧠 Currently exploring **LLM orchestration frameworks**, **LangGraph**, and **multi-cloud automation**  
+- 🤖 Currently working on building **AI Agent systems** using frameworks like **LangGraph**, **Claude Agent**, and **AWS Bedrock CoreAgent**  
 - ☁️ Experienced across **AWS**, **Azure**, and **GCP**, with deep focus on **ECS**, **Lambda**, **API Gateway**, **Terraform**, and **GitLab CI/CD**  
 - 📝 I write about cloud, AI, and automation on [Medium](https://muralidkt.medium.com)  
 - 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/muralidkt/)  
 - 📫 Reach me at **muralidkt@gmail.com**
-
-
