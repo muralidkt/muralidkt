@@ -1,0 +1,24 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "muralidkt"
+version = "0.1.0"
+description = "Profile and readme"
+readme = "README.md"
+requires-python = ">=3.8"
+
+[tool.hatch.envs.default]
+dependencies = []
+skip-install = true
+
+
+[tool.hatch.envs.default.scripts]
+deploy-profile = """
+git checkout -B update-profile-latest
+git add -A
+git commit -m 'Update CV PDF and all changes'
+git push -u origin update-cv-latest
+gh pr create --fill --base main || echo 'Manually create PR if gh cli not available'
+"""
