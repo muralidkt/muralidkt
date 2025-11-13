@@ -13,12 +13,11 @@ requires-python = ">=3.8"
 dependencies = []
 skip-install = true
 
-
 [tool.hatch.envs.default.scripts]
 deploy-profile = """
 git checkout -B update-profile-latest
 git add -A
-git commit -m 'Update CV PDF and all changes'
+git commit -m 'Update profile changes'
 git push -u origin update-cv-latest
 gh pr create --fill --base main || echo 'Manually create PR if gh cli not available'
 """
