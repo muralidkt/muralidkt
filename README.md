@@ -3,7 +3,7 @@
 
 <p align="center">
   I'm passionate about designing and building scalable, secure, and automated cloud platforms.  
-  My work revolves around DevOps, MLOps, and intelligent systems — bridging cloud infrastructure with modern AI workloads.
+  My work revolves around DevOps, AI/MLOps and bridging cloud infrastructure with modern AI workloads.
 </p>
 
 ---
