@@ -12,5 +12,5 @@
 - ☁️ Experienced across **AWS**, **Azure**, and **GCP**, with deep focus on building applications leveraging **Cloud Service**, **Applied AI / ML Ops**, **Infrastructure as Code(IaC)**, **Automation**, **Security** etc  
 - 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/muralidkt/) 
 - 📫 Reach me at **muralidkt@gmail.com**
-- 🏅 View my **AWS & Cloud Certifications** on [Credly](https://www.credly.com/users/muralidharan-kotharamban/badges#credly) 
+- 🏅 View my **AWS & Cloud Certifications** on [Credly](https://www.credly.com/users/muralidkt/badges) 
 - 📝 I write about cloud, AI, and automation on [Medium](https://muralidkt.medium.com)
