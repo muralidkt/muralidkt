@@ -14,3 +14,4 @@
 - 📫 Reach me at **muralidkt@gmail.com**
 - 🏅 View my **AWS & Cloud Certifications** on [Credly](https://www.credly.com/users/muralidkt/badges) 
 - 📝 I write about cloud, AI, and automation on [Medium](https://muralidkt.medium.com)
+- 🌐 Visit my website at [muralidkt.com](https://muralidkt.com)
