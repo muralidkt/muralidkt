@@ -1,17 +1,19 @@
 <h1 align="center">Hi 👋, I'm Murali</h1>
-<h3 align="center">🚀 Platform Engineer | Cloud, Cloud-Native, AI & MLOps Enthusiast</h3>
+<h3 align="center">🚀 AI Platform Engineer | Cloud, Cloud-Native, Agentic AI &amp; MLOps</h3>
 
 <p align="center">
-  I'm passionate about designing and building scalable, secure, and automated cloud platforms.  
-  My work revolves around DevOps, AI/MLOps and bridging cloud infrastructure with modern AI workloads.
+  10+ years across cloud infrastructure, AI/ML platform engineering, and cloud-native delivery on AWS, GCP, and Azure.  
+  Currently building production agentic AI systems — agent orchestration, inference APIs, evaluation pipelines with LLM-as-judge quality gates,
+  and per-tenant LLM cost observability with multi-provider model routing for EU data residency.
 </p>
 
 ---
 
-- 🤖 Currently working on building scalable, secure and resilient **AI Agent systems** using frameworks like **LangGraph**, **Claude Agent**, and **AWS Bedrock CoreAgent** 
-- ☁️ Experienced across **AWS**, **Azure**, and **GCP**, with deep focus on building applications leveraging **Cloud Service**, **Applied AI / ML Ops**, **Infrastructure as Code(IaC)**, **Automation**, **Security** etc  
-- 💼 Let’s connect on [LinkedIn](https://www.linkedin.com/in/muralidkt/) 
+- 🤖 Building **Aura**, a multi-agent system that lets users define, model, and solve math-optimization problems in natural language — architected on **GCP Cloud Run**, **Cloudflare**, **Google Vertex AI** (Claude, EU regions), and **Vercel**, with the agent core on **Claude Agent SDK** + **FastAPI**
+- 🧪 Building production-grade **agent evaluation pipelines** (golden datasets, LLM-as-judge scoring, AWS Glue/Athena/QuickSight) with CI/CD-gated regression checks blocking merges on quality drops
+- ☁️ Experienced across **AWS**, **GCP**, and **Azure**, with deep focus on **Applied AI/ML Ops**, agent orchestration (**LangChain/LangGraph**, **Claude Agent SDK**, **MCP**), **Infrastructure as Code (Terraform)**, and secure-by-design platform automation
+- 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/muralidkt/) 
 - 📫 Reach me at **muralidkt@gmail.com**
-- 🏅 View my **AWS & Cloud Certifications** on [Credly](https://www.credly.com/users/muralidkt/badges) 
+- 🏅 View my **AWS &amp; Cloud Certifications** on [Credly](https://www.credly.com/users/muralidkt/badges) 
 - 📝 I write about cloud, AI, and automation on [Medium](https://muralidkt.medium.com)
 - 🌐 Visit my website at [muralidkt.com](https://muralidkt.com)
