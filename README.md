@@ -9,7 +9,7 @@
 
 ---
 
-- 🤖 Building **Aura**, a multi-agent system that lets users define, model, and solve math-optimization problems in natural language — architected on **GCP Cloud Run**, **Cloudflare**, **Google Vertex AI** (Claude, EU regions), and **Vercel**, with the agent core on **Claude Agent SDK** + **FastAPI**
+- 🤖 Building a **multi-agent system for mathematical optimization / operations research** — lets users define, model, and solve optimization problems in natural language — architected on **GCP Cloud Run**, **Cloudflare**, **Google Vertex AI** (Claude, EU regions), and **Vercel**, with the agent core on **Claude Agent SDK** + **FastAPI**
 - 🧪 Building production-grade **agent evaluation pipelines** (golden datasets, LLM-as-judge scoring, AWS Glue/Athena/QuickSight) with CI/CD-gated regression checks blocking merges on quality drops
 - ☁️ Experienced across **AWS**, **GCP**, and **Azure**, with deep focus on **Applied AI/ML Ops**, agent orchestration (**LangChain/LangGraph**, **Claude Agent SDK**, **MCP**), **Infrastructure as Code (Terraform)**, and secure-by-design platform automation
 - 💼 Let's connect on [LinkedIn](https://www.linkedin.com/in/muralidkt/) 
