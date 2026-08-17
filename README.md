@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Murali</h1>
-<h3 align="center">🚀 AI Platform Engineer | Cloud, Cloud-Native, Agentic AI &amp; MLOps</h3>
+<h3 align="center">🚀 AI &amp; Agent Systems Engineer | Building multi-tenant AI inference &amp; multi-agent platforms.</h3>
 
 <p align="center">
   10+ years across cloud infrastructure, AI/ML platform engineering, and cloud-native delivery on AWS, GCP, and Azure.  
